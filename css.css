@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+font-family: 'Chivo', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: 'PT Serif Caption', serif;
+}
